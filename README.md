@@ -7,13 +7,13 @@ Este directorio contiene los tres datasets utilizados para llevar a cabo el entr
 
 Los datasets utilizados se corresponden con el histórico de acciones de Apple, Amazon y Google, con un intervalo de tiempo que abarca desde el 18/01/2008 al 18/01/2023. Información extraída de https://es.finance.yahoo.com
 
-## [Red neuronal LSTM](./Red_neuronal_LSTM) 📈
+## [Red neuronal LSTM](./Red%20neuronal%20LSTM) 📈
 
-Este directorio contiene la implementación del modelo LSTM en el fichero [**main.py**](Red_neuronal_LSTM/main.py)
+Este directorio contiene la implementación del modelo LSTM en el fichero [**main.py**](Red%20neuronal%20LSTM/main.py)
 
 ## [Resultados](./Resultados) 📊
 
-Este directorio contiene los resultados, tanto del [**modelo LSTM**](Resultados/Resultados_modelo_propio_LSTM/) como del [**modelo H2O**](Resultados/Resultados_modelo_H2O/).
+Este directorio contiene los resultados, tanto del [**modelo LSTM**](Resultados/Resultados%20modelo%20propio%20LSTM/) como del [**modelo H2O**](Resultados/Resultados%20modelo%20H2O/).
 
 ## Licencia 📄
 
