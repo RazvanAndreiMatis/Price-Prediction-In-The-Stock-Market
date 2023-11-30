@@ -2,7 +2,7 @@
 
 En este repositorio se encuentra la implementación de técnicas de aprendizaje automático para predecir los precios de las acciones en el mercado bursátil. Se encuentra organizado en los siguientes directorios:
 
-## [Datasets](./Datasets) 📂:
+## [Datasets](./Datasets) 📂
 Este directorio contiene los tres datasets utilizados para llevar a cabo el entrenamento, validación y pruebas de ambos modelos, tanto del modelo LSTM como del modelo H2O.
 
 Los datasets utilizados se corresponden con el histórico de acciones de Apple, Amazon y Google, con un intervalo de tiempo que abarca desde el 18/01/2008 al 18/01/2023. Información extraída de https://es.finance.yahoo.com
