@@ -17,4 +17,4 @@ Este directorio contiene los resultados, tanto del [**modelo LSTM**](Resultados/
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia GNU GENERAL PUBLIC LICENSE - mira el archivo [**LICENSE.md**](LICENSE) para más detalles.
+Este proyecto está bajo la Licencia GNU GENERAL PUBLIC LICENSE - mira el archivo [**LICENSE**](LICENSE) para más detalles.
