@@ -13,7 +13,7 @@ Este directorio contiene la implementación del modelo LSTM en el fichero [**mai
 
 ## [Resultados](./Resultados) 📊
 
-Este directorio contiene los resultados, tanto del [**modelo LSTM**](Resultados/Resultados_modelo_propio_LSTM/) como del [**modelo H2O**](Resultados/Resultados modelo H2O/).
+Este directorio contiene los resultados, tanto del [**modelo LSTM**](Resultados/Resultados_modelo_propio_LSTM/) como del [**modelo H2O**](Resultados/Resultados_modelo_H2O/).
 
 ## Licencia 📄
 
